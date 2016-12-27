@@ -5,8 +5,8 @@
 
 
 ## results
-![](/Users/chengshuo/Github/Game2048/result.jpeg)
+![](https://github.com/touristCheng/Game2048/blob/master/result.jpeg)
 
-![](/Users/chengshuo/Github/Game2048/result1.jpeg)
+![](https://github.com/touristCheng/Game2048/blob/master/result.jpeg)
 
 
