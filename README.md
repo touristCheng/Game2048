@@ -7,6 +7,6 @@
 ## results
 ![](https://github.com/touristCheng/Game2048/blob/master/result.jpeg)
 
-![](https://github.com/touristCheng/Game2048/blob/master/result.jpeg)
+![](https://github.com/touristCheng/Game2048/blob/master/result1.jpeg)
 
 
