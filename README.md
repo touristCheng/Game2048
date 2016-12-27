@@ -1,4 +1,4 @@
-# Game2048
+# Game 2048
 
 ## overview
 2048 is a puzzle game, you can merge the blocks with the same number, and get the score!
