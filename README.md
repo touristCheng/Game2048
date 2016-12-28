@@ -6,13 +6,8 @@
 
 ## results
 
-<div style="text-align: center">
-<img src="https://github.com/touristCheng/Game2048/blob/master/result.jpeg"/>
+<div align="center">
+<img src=https://raw.githubusercontent.com/touristCheng/Game2048/master/result.jpeg onload='this.width=155'/> 
+<img src=https://raw.githubusercontent.com/touristCheng/Game2048/master/result1.jpeg onload='this.width=155'/>
 </div>
-
-<div style="text-align: center">
-<img src="https://github.com/touristCheng/Game2048/blob/master/result1.jpeg"/>
-</div>
-
-
 
