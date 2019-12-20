@@ -7,6 +7,6 @@
 ## Results
 
 <div align="center">
-<img src="result.jpeg" width="200"/><img src="result1.jpeg" width="200"/>
+<img src="result.jpeg" width="200"/>  <img src="result1.jpeg" width="200"/>
 </div>
 
